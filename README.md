@@ -4,3 +4,6 @@ https://github.com/LIghtJUNction/kernel_lge_alphalm/tree/alphalm
 
 # arch/arm64/configs/
 vendor/alpha_lao_com-perf_defconfig
+
+
+clang version 17.0.2
